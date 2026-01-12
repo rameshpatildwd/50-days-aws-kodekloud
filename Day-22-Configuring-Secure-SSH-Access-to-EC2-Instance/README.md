@@ -28,6 +28,8 @@ to allow passwordless SSH access.
 - Verified that the EC2 instance initialization was completed
 - Tested SSH access from the landing host to the EC2 instance using `ssh root@<ec2-ip>`
 - Confirmed successful passwordless SSH login
+![SSH login successful](ssh-connect.png)
+
 
 ---
 
