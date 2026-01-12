@@ -50,6 +50,10 @@ The goal of this challenge is to build **strong AWS fundamentals** by working on
 | Day 20 | Create IAM Role for EC2 with Policy Attachment | [View](Day-20-Create-IAM-Role-for-EC2-with-Policy-Attachment/README.md) |
 | Day 21 | Setup EC2 with Elastic IP for Application Hosting | [View](Day-21-Setup-EC2-with-Elastic-IP-for-Application-Hosting/README.md) |
 | Day 22 | Configure Secure SSH Access to EC2 Instance | [View](Day-22-Configuring-Secure-SSH-Access-to-EC2-Instance/README.md) |
+| Day 23 | Data Migration Between S3 Buckets Using AWS CLI | [View](Day-23-Data-Migration-Between-S3-Buckets-Using-AWS-CLI/README.md) |
+| Day 24 | Setting Up Application Load Balancer for EC2 Instance | [View](Day-24-Setting-Up-Application-Load-Balancer-for-EC2-Instance/README.md) |
+| Day 25 | Setting Up EC2 Instance and CloudWatch Alarm | [View](Day-25-Setting-Up-EC2-Instance-and-CloudWatch-Alarm/README.md) |
+
 
 ---
 
