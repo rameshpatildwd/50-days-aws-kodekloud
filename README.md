@@ -76,7 +76,7 @@ The goal of this challenge is to build **strong AWS fundamentals** by working on
 ---
 
 ## Progress
-Days Completed: **22 / 50**  
+Days Completed: **25 / 50**  
 Remaining: **28 Days**
 
 ---
