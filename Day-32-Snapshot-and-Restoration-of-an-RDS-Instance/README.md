@@ -25,8 +25,14 @@ The Nautilus Development Team is preparing for a major update to their database 
 ---
 
 ## Verification
-![RDS Snapshot verification](/Day-32-Snapshot-and-Restoration-of-an-RDS-Instance/rds-snapshot.png)
-![RDS Snapshot verification](/Day-32-Snapshot-and-Restoration-of-an-RDS-Instance/rds-restore.png)
+
+### RDS Snapshot Creation
+![RDS Snapshot Creation](/Day-32-Snapshot-and-Restoration-of-an-RDS-Instance/rds-snapshot.png)
+
+---
+
+### RDS Snapshot Restoration
+![RDS Snapshot Restoration](/Day-32-Snapshot-and-Restoration-of-an-RDS-Instance/rds-restore.png)
 
 ---
 
