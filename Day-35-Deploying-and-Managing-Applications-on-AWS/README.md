@@ -60,8 +60,8 @@ deploying application code, and validating end-to-end connectivity.
 - Accessed application via browser: `http://<ec2-public-ip>/`
 - Successfully received message: `Connected successfully`
 
-![Application output](Day-35-Deploying-and-Managing-Applications-on-AWS/application.png)
-![Database connection confirmation](Day-35-Deploying-and-Managing-Applications-on-AWS/db-connect.png)
+![Application output](/Day-35-Deploying-and-Managing-Applications-on-AWS/application.png)
+![Database connection confirmation](/Day-35-Deploying-and-Managing-Applications-on-AWS/db-connect.png)
 
 
 ---
