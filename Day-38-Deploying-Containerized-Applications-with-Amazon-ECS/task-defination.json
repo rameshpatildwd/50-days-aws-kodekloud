@@ -1,0 +1,29 @@
+{
+  "family": "datacenter-taskdefinition",
+  "networkMode": "awsvpc",
+  "requiresCompatibilities": ["FARGATE"],
+  "cpu": "1024",
+  "memory": "3072",
+  "executionRoleArn": "arn:aws:iam::534953745331:role/ecsTaskExecutionRole",
+  "containerDefinitions": [
+    {
+      "name": "datacenter-container",
+      "image": "534953745331.dkr.ecr.us-east-1.amazonaws.com/datacenter-ecr:latest",
+      "essential": true,
+      "portMappings": [
+        {
+          "containerPort": 80,
+          "protocol": "tcp"
+        }
+      ],
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+          "awslogs-group": "/ecs/datacenter-taskdefinition",
+          "awslogs-region": "us-east-1",
+          "awslogs-stream-prefix": "ecs"
+        }
+      }
+    }
+  ]
+}
