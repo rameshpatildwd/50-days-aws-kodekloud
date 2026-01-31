@@ -36,7 +36,6 @@ The task is to troubleshoot the issue and ensure the application becomes publicl
 - Observed that no Internet Gateway (IGW) was attached to the VPC *(refer resource map before fix)*
 
 ![VPC resource map before IGW attachment](/Day-40-Troubleshooting-Internet-Accessibility-for-an-EC2-Hosted-Application/Resource-map-before.png)
-
 - Noted that an Internet Gateway named **xfusion-ig** already existed
 - Opened the IGW and confirmed it was in **Detached** state
 - Attached **xfusion-ig** to **xfusion-vpc**
@@ -53,7 +52,6 @@ The task is to troubleshoot the issue and ensure the application becomes publicl
 - Accessed the application again from the browser: `http://18.212.134.103:80`
 - Successfully received the **Nginx default page**
 - Confirmed that the application was now accessible from the internet
-  *(refer resource map before fix)*
 
 ![VPC resource map before IGW attachment](/Day-40-Troubleshooting-Internet-Accessibility-for-an-EC2-Hosted-Application/Nginx.png)
 
