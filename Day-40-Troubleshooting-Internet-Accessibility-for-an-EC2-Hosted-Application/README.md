@@ -33,15 +33,14 @@ The task is to troubleshoot the issue and ensure the application becomes publicl
 
 ### VPC and Network Troubleshooting
 - Opened the **xfusion-vpc** resource map  
-- Observed that no Internet Gateway (IGW) was attached to the VPC  
-  *(refer resource map before fix)*
+- Observed that no Internet Gateway (IGW) was attached to the VPC *(refer resource map before fix)*
 
 ![VPC resource map before IGW attachment](/Day-40-Troubleshooting-Internet-Accessibility-for-an-EC2-Hosted-Application/Resource-map-before.png)
 
 - Noted that an Internet Gateway named **xfusion-ig** already existed
 - Opened the IGW and confirmed it was in **Detached** state
 - Attached **xfusion-ig** to **xfusion-vpc**
-  *(refer resource map before fix)*
+  *(refer resource map after fix)*
 
 ![VPC resource map before IGW attachment](/Day-40-Troubleshooting-Internet-Accessibility-for-an-EC2-Hosted-Application/Resource-map-after.png)
 
