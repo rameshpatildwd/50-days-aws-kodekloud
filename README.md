@@ -53,6 +53,21 @@ The goal of this challenge is to build **strong AWS fundamentals** by working on
 | Day 23 | Data Migration Between S3 Buckets Using AWS CLI | [View](Day-23-Data-Migration-Between-S3-Buckets-Using-AWS-CLI/README.md) |
 | Day 24 | Setting Up Application Load Balancer for EC2 Instance | [View](Day-24-Setting-Up-Application-Load-Balancer-for-EC2-Instance/README.md) |
 | Day 25 | Setting Up EC2 Instance and CloudWatch Alarm | [View](Day-25-Setting-Up-EC2-Instance-and-CloudWatch-Alarm/README.md) |
+| Day 26 | Configuring an EC2 Instance as a Web Server with Nginx | [View](Day-26-Configuring-an-EC2-Instance-as-a-Web-Server-with-Nginx/README.md) |
+| Day 27 | Configuring a Public VPC with an EC2 Instance for Internet Access | [View](Day-27-Configuring-a-Public-VPC-with-an-EC2-Instance-for-Internet-Access/README.md) |
+| Day 28 | Creating a Private ECR Repository | [View](Day-28-Creating-a-Private-ECR-Repository/README.md) |
+| Day 29 | Establishing Secure Communication Between Public and Private VPCs via VPC Peering | [View](Day-29-Establishing-Secure-Communication-Between-Public-and-Private-VPCs-via-VPC-Peering/README.md) |
+| Day 30 | Enable Internet Access for Private EC2 using NAT Instance | [View](Day-30-Enable-Internet-Access-for-Private-EC2-using-NAT-Instance/README.md) |
+| Day 31 | Configuring a Private RDS Instance for Application Development | [View](Day-31-Configuring-a-Private-RDS-Instance-for-Application-Development/README.md) |
+| Day 32 | Snapshot and Restoration of an RDS Instance | [View](Day-32-Snapshot-and-Restoration-of-an-RDS-Instance/README.md) |
+| Day 33 | Create a Lambda Function | [View](Day-33-Create-a-Lambda-Function/README.md) |
+| Day 34 | Create a Lambda Function Using CLI | [View](Day-34-Create-a-Lambda-Function-Using-CLI/README.md) |
+| Day 35 | Deploying and Managing Applications on AWS | [View](Day-35-Deploying-and-Managing-Applications-on-AWS/README.md) |
+| Day 36 | Load Balancing EC2 Instances with Application Load Balancer | [View](Day-36-Load-Balancing-EC2-Instances-with-Application-Load-Balancer/README.md) |
+| Day 37 | Managing EC2 Access with S3 Role-based Permissions | [View](Day-37-Managing-EC2-Access-with-S3-Role-based-Permissions/README.md) |
+| Day 38 | Deploying Containerized Applications with Amazon ECS | [View](Day-38-Deploying-Containerized-Applications-with-Amazon-ECS/README.md) |
+| Day 39 | Hosting a Static Website on AWS S3 | [View](Day-39-Hosting-a-Static-Website-on-AWS-S3/README.md) |
+| Day 40 | Troubleshooting Internet Accessibility for an EC2-Hosted Application | [View](Day-40-Troubleshooting-Internet-Accessibility-for-an-EC2-Hosted-Application/README.md) |
 
 
 ---
@@ -65,6 +80,19 @@ The goal of this challenge is to build **strong AWS fundamentals** by working on
 - IAM (Users, Groups, Policies, Roles)
 - Linux & SSH
 - AWS Networking Basics
+- Application Load Balancer (ALB)
+- Amazon CloudWatch (Alarms & Monitoring)
+- AWS Lambda (Console & CLI)
+- Amazon RDS (MySQL)
+- Amazon VPC (Public/Private Subnets, IGW, Route Tables)
+- VPC Peering
+- NAT Instance
+- Amazon ECR (Elastic Container Registry)
+- Amazon ECS (Fargate)
+- Static Website Hosting on S3
+- IAM Role-based Access for EC2
+- AWS CLI
+- AWS Troubleshooting & Debugging
 
 ---
 
@@ -76,8 +104,8 @@ The goal of this challenge is to build **strong AWS fundamentals** by working on
 ---
 
 ## Progress
-Days Completed: **25 / 50**  
-Remaining: **28 Days**
+Days Completed: **40 / 50**  
+Remaining: **10 Days**
 
 ---
 
